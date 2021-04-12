@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @rafi-cloud
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m highly interested in programming and front-end web developement
+- 🌱 I’m currently learning javascript and it's widely popular library react js
+- 📫 To reach me please send a mail at rafimiazi10@gmail.com
 
-<!---
-rafi-cloud/rafi-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
